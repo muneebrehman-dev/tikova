@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2820" height="1180" viewBox="0 0 2820 1180" font-family="Inter, Arial, sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3F3F46"/></marker><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C93A3A"/></marker></defs>
+<rect width="2820" height="1180" fill="#FFFFFF"/>
+<text x="40" y="70" font-size="34" font-weight="700" fill="#0D0D0E">Tikova Platform — End-to-End Loan Flow</text>
+<text x="40" y="106" font-size="17" fill="#6F6D66">Phase 1: origination + AI-assisted underwriting. Claude reads, code calculates, people approve. Every step writes to the hash-chained audit trail.</text>
+<rect x="2390" y="44" width="390" height="40" rx="20" fill="#0D0D0E"/><text x="2585" y="70" font-size="15" font-weight="600" fill="#D9922E" text-anchor="middle">PHASE 1 · THIS CONTRACT</text>
+<rect x="40" y="170" width="2740" height="240" rx="18" fill="#EEF3FA"/>
+<rect x="40" y="170" width="150" height="240" rx="18" fill="#2F6FB3"/>
+<text x="115.0" y="286.0" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">PEOPLE</text>
+<text x="115.0" y="310.0" font-size="13" fill="#FFFFFF" fill-opacity="0.8" text-anchor="middle">approve &amp; decide</text>
+<rect x="40" y="410" width="2740" height="200" rx="18" fill="#FCF3E3"/>
+<rect x="40" y="410" width="150" height="200" rx="18" fill="#B87518"/>
+<text x="115.0" y="506.0" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">CLAUDE</text>
+<text x="115.0" y="530.0" font-size="13" fill="#FFFFFF" fill-opacity="0.8" text-anchor="middle">reads &amp; drafts</text>
+<rect x="40" y="610" width="2740" height="240" rx="18" fill="#F1F0EC"/>
+<rect x="40" y="610" width="150" height="240" rx="18" fill="#0D0D0E"/>
+<text x="115.0" y="726.0" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">CODE</text>
+<text x="115.0" y="750.0" font-size="13" fill="#FFFFFF" fill-opacity="0.8" text-anchor="middle">calculates &amp; enforces</text>
+<rect x="220" y="244.0" width="176" height="92" rx="46" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="308.0" y="275.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Broker / sponsor</text>
+<text x="308.0" y="295.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">submits a deal</text>
+<text x="308.0" y="315.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">OM · email · package</text>
+<circle cx="232" cy="256.0" r="13" fill="#D9922E"/><text x="232" y="261.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">1</text>
+<rect x="420" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="508.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Deal intake</text>
+<text x="508.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">structured record</text>
+<text x="508.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">duplicate check</text>
+<circle cx="432" cy="696.0" r="13" fill="#D9922E"/><text x="432" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">2</text>
+<rect x="420" y="464.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#D9922E" stroke-width="2.5"/>
+<text x="508.0" y="495.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">OM prefill</text>
+<text x="508.0" y="515.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">drafts intake fields</text>
+<text x="508.0" y="535.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">flagged to verify</text>
+<rect x="620" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="708.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Buy-box screening</text>
+<text x="708.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">Fund I · 2 SMAs ·</text>
+<text x="708.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">participant bank</text>
+<circle cx="632" cy="696.0" r="13" fill="#D9922E"/><text x="632" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">3</text>
+<path d="M908.0,658.0 L998.0,730.0 L908.0,802.0 L818.0,730.0 Z" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="908.0" y="725.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Fits ≥ 1</text>
+<text x="908.0" y="745.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">partner?</text>
+<rect x="820" y="244.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="908.0" y="285.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Declined / dead</text>
+<text x="908.0" y="305.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">reason logged</text>
+<rect x="1020" y="244.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="1108.0" y="275.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Upload package</text>
+<text x="1108.0" y="295.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">rent roll · T-12 · budget</text>
+<text x="1108.0" y="315.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">appraisal · sponsor PFS</text>
+<circle cx="1032" cy="256.0" r="13" fill="#D9922E"/><text x="1032" y="261.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">4</text>
+<rect x="1220" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="1308.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Hash &amp; version</text>
+<text x="1308.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">PII redaction</text>
+<text x="1308.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">before any AI call</text>
+<circle cx="1232" cy="696.0" r="13" fill="#D9922E"/><text x="1232" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">5</text>
+<rect x="1420" y="464.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#D9922E" stroke-width="2.5"/>
+<text x="1508.0" y="495.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Classify &amp; extract</text>
+<text x="1508.0" y="515.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">strict JSON schema</text>
+<text x="1508.0" y="535.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">page + quote evidence</text>
+<circle cx="1432" cy="476.0" r="13" fill="#D9922E"/><text x="1432" y="481.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">6</text>
+<rect x="1620" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="1708.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Validate</text>
+<text x="1708.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">totals tie · cross-doc</text>
+<text x="1708.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">consistency checks</text>
+<circle cx="1632" cy="696.0" r="13" fill="#D9922E"/><text x="1632" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">7</text>
+<rect x="1820" y="244.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="1908.0" y="275.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Human review</text>
+<text x="1908.0" y="295.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">approve · edit · reject</text>
+<text x="1908.0" y="315.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">critical fields</text>
+<circle cx="1832" cy="256.0" r="13" fill="#D9922E"/><text x="1832" y="261.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">8</text>
+<rect x="2020" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="2108.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Sizing engine</text>
+<text x="2108.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">LTC · LTV · DSCR · DY</text>
+<text x="2108.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">max loan + binding</text>
+<circle cx="2032" cy="696.0" r="13" fill="#D9922E"/><text x="2032" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">9</text>
+<rect x="2220" y="464.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#D9922E" stroke-width="2.5"/>
+<text x="2308.0" y="495.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Draft credit memo</text>
+<text x="2308.0" y="515.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">narrative only;</text>
+<text x="2308.0" y="535.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">numbers inserted by code</text>
+<circle cx="2232" cy="476.0" r="13" fill="#D9922E"/><text x="2232" y="481.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">10</text>
+<rect x="2420" y="244.0" width="176" height="92" rx="14" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="2508.0" y="275.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Credit committee</text>
+<text x="2508.0" y="295.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">votes + conditions</text>
+<text x="2508.0" y="315.0" font-size="13" font-weight="400" fill="#0D0D0E" fill-opacity="0.75" text-anchor="middle">quorum incl. chair</text>
+<circle cx="2432" cy="256.0" r="13" fill="#D9922E"/><text x="2432" y="261.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">11</text>
+<path d="M2708.0,218.0 L2798.0,290.0 L2708.0,362.0 L2618.0,290.0 Z" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/>
+<text x="2708.0" y="295.0" font-size="15" font-weight="700" fill="#0D0D0E" fill-opacity="1" text-anchor="middle">Approved?</text>
+<rect x="2620" y="684.0" width="176" height="92" rx="14" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/>
+<text x="2708.0" y="715.0" font-size="15" font-weight="700" fill="#FFFFFF" fill-opacity="1" text-anchor="middle">Term sheet</text>
+<text x="2708.0" y="735.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">versioned · e-sign later</text>
+<text x="2708.0" y="755.0" font-size="13" font-weight="400" fill="#FFFFFF" fill-opacity="0.75" text-anchor="middle">capital allocation</text>
+<circle cx="2632" cy="696.0" r="13" fill="#D9922E"/><text x="2632" y="701.0" font-size="13" font-weight="700" fill="#0D0D0E" text-anchor="middle">12</text>
+<path d="M396,290.0 L408,290.0 L408,730.0 L420,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M508.0,556.0 L508.0,556.0 L508.0,684.0 L508.0,684.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="516.0" y="452.0" font-size="12" fill="#B87518" font-style="italic">optional</text>
+<path d="M596,730.0 L620,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M796,730.0 L818.0,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M908.0,658.0 L908.0,658.0 L908.0,336.0 L908.0,336.0" fill="none" stroke="#C93A3A" stroke-width="2.5" marker-end="url(#arr)"/>
+<rect x="930.4" y="581.0" width="31.2" height="24" rx="12" fill="#FFFFFF" stroke="#C93A3A" stroke-width="1.5"/><text x="946.0" y="598.0" font-size="13" font-weight="700" fill="#C93A3A" text-anchor="middle">No</text>
+<path d="M998.0,730.0 L1006,730.0 L1006,290.0 L1020,290.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="986.6" y="673.0" width="38.8" height="24" rx="12" fill="#FFFFFF" stroke="#3F3F46" stroke-width="1.5"/><text x="1006" y="690.0" font-size="13" font-weight="700" fill="#3F3F46" text-anchor="middle">Yes</text>
+<path d="M1196,290.0 L1208,290.0 L1208,730.0 L1220,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M1396,730.0 L1408,730.0 L1408,510.0 L1420,510.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M1596,510.0 L1608,510.0 L1608,730.0 L1620,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M1796,730.0 L1808,730.0 L1808,290.0 L1820,290.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M1908.0,244.0 L1908.0,214.0 L1508.0,214.0 L1508.0,464.0" fill="none" stroke="#C93A3A" stroke-width="2.2" stroke-dasharray="8 6" marker-end="url(#arr)"/>
+<rect x="1616.0" y="200.0" width="184" height="26" rx="13" fill="#FFFFFF" stroke="#C93A3A" stroke-width="1.5"/><text x="1708.0" y="218.0" font-size="12.5" font-weight="700" fill="#C93A3A" text-anchor="middle">Reject → re-extract once</text>
+<path d="M1996,290.0 L2008,290.0 L2008,730.0 L2020,730.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="1950.6" y="368.0" width="114.8" height="24" rx="12" fill="#FFFFFF" stroke="#3F3F46" stroke-width="1.5"/><text x="2008" y="385.0" font-size="13" font-weight="700" fill="#3F3F46" text-anchor="middle">Approved only</text>
+<path d="M2196,730.0 L2208,730.0 L2208,510.0 L2220,510.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M2396,510.0 L2408,510.0 L2408,290.0 L2420,290.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M2596,290.0 L2618.0,290.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<path d="M2708.0,362.0 L2708.0,362.0 L2708.0,684.0 L2708.0,684.0" fill="none" stroke="#3F3F46" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="2724.6" y="405.0" width="38.8" height="24" rx="12" fill="#FFFFFF" stroke="#3F3F46" stroke-width="1.5"/><text x="2744.0" y="422.0" font-size="13" font-weight="700" fill="#3F3F46" text-anchor="middle">Yes</text>
+<path d="M2708.0,218.0 L2708.0,192.0" fill="none" stroke="#C93A3A" stroke-width="2.5" marker-end="url(#arr)"/>
+<text x="2698.0" y="204.0" font-size="13" font-weight="700" fill="#C93A3A" text-anchor="end">No → declined</text>
+<rect x="40" y="880" width="2740" height="170" rx="18" fill="#FFFFFF" stroke="#C9C5BB" stroke-width="2" stroke-dasharray="10 7"/>
+<text x="64" y="918" font-size="16" font-weight="700" fill="#6F6D66" letter-spacing="1.5">LATER PHASES · MODELED IN THE PHASE 1 DATA MODEL, BUILT LATER</text>
+<rect x="480" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="630" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Due diligence</text>
+<text x="630" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">ESA · PCA · title · insurance</text>
+<path d="M780,982 L858,982" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="860" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="1010" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Closing</text>
+<text x="1010" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">checklists · DocuSign</text>
+<path d="M1160,982 L1238,982" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="1240" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="1390" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Construction draws</text>
+<text x="1390" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">inspections · retainage</text>
+<path d="M1540,982 L1618,982" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="1620" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="1770" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Servicing</text>
+<text x="1770" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">interest · PIK · extensions</text>
+<path d="M1920,982 L1998,982" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="2000" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="2150" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Accounting</text>
+<text x="2150" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">loan ledger · allocations</text>
+<path d="M2300,982 L2378,982" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="2380" y="942" width="300" height="80" rx="14" fill="#F6F5F2" stroke="#C9C5BB" stroke-width="2"/>
+<text x="2530" y="977" font-size="16" font-weight="700" fill="#0D0D0E" text-anchor="middle">Investor reporting</text>
+<text x="2530" y="1000" font-size="13" fill="#6F6D66" text-anchor="middle">partner reports · Agora</text>
+<path d="M2708.0,776.0 L2708.0,864 L630,864 L630,940" fill="none" stroke="#A8A49B" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#ar)"/>
+<rect x="40" y="1086" width="2740" height="60" rx="16" fill="#0D0D0E"/>
+<text x="68" y="1123" font-size="17" font-weight="700" fill="#D9922E">AUDIT TRAIL</text>
+<text x="210" y="1123" font-size="15.5" fill="#FFFFFF">Every state change → append-only, hash-chained event: who · when · before/after · reason. Role-based access + partner-level isolation on every step.</text>
+<rect x="1700" y="122" width="22" height="22" rx="6" fill="#FFFFFF" stroke="#2F6FB3" stroke-width="2.5"/><text x="1732" y="139" font-size="14" fill="#3F3F46">People</text>
+<rect x="1900" y="122" width="22" height="22" rx="6" fill="#FFFFFF" stroke="#D9922E" stroke-width="2.5"/><text x="1932" y="139" font-size="14" fill="#3F3F46">Claude (AI)</text>
+<rect x="2100" y="122" width="22" height="22" rx="6" fill="#0D0D0E" stroke="#0D0D0E" stroke-width="2.5"/><text x="2132" y="139" font-size="14" fill="#3F3F46">Deterministic code</text>
+</svg>
